@@ -1,34 +1,27 @@
 ---
-layout: default
-title: Dana Jiajun Dai
+layout: page
+title: "Home"
+permalink: /
 ---
 
-# Dana Jiajun Dai
-PhD Student, Scientific Computing & Imaging Institute  
-Kahlert School of Computing, University of Utah  
-Email: u1420119@utah.edu; jiajundai1991@gmail.com
+## About
 
-<img src="assets/img/dana.jpg" width="180">
+I am a first-year PhD student in the Scientific Computing & Imaging Institute (SCI) at the University of Utah, advised by Prof. Valerio Pascucci. My research lies at the intersection of data visualization, topological data analysis and machine learning for large-scale biomedical imaging.
 
-## About Me
-I am a first-year PhD student in the Scientific Computing & Imaging Institute (SCI), advised by Prof. Valerio Pascucci. My research interests include data visualization, topological data analysis, and machine learning for large-scale biomedical imaging. I am currently working on computational pipelines and visualization frameworks for histopathology whole-slide images, with a focus on interpretability, multi-resolution analysis, and robust model evaluation.
+Before joining the Kahlert School of Computing, I completed an M.A. in Mathematics at UC Santa Barbara, where I focused on algebraic geometry, algebraic topology, numerical analysis, and scientific computing. I also hold a B.Eng. in Polymer Science and Engineering from the University of Science and Technology of China.
 
-Previously, I completed my M.A. in Mathematics at University of California Santa Barbara, where my work centered on algebraic geometry, algebraic topology, numerical analysis, and scientific computing.
+## Research Interests
 
-## Research Interests 
-- Topological data analysis and geometric algorithms  
-- Visualization for extreme-scale scientific datasets  
-- Machine learning for digital pathology (WSI analysis)
-- Deep learning for PDEs 
-
-## Publications
-(*Add these when available*)
+- Data visualization for scientific and biomedical data  
+- Topological data analysis (TDA) and computational topology  
+- Machine learning for digital pathology (H\&E histopathology, WSI)  
 
 ## CV
-[Download my CV (PDF)](assets/CV_DanaDai.pdf)
 
-## Teaching & Service
-(*Optional, can add later*)
+You can download my current curriculum vitae (CV) here:
+
+- [Download CV (PDF)](/assets/dana-dai_cv.pdf)
 
 ## Contact
-For collaborations or questions, please reach out via email.
+
+- Email: u1420119@utah.edu; jiajundai1991@gmail.com
