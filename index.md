@@ -1,27 +1,35 @@
 ---
-layout: page
+layout: default
 title: "Home"
-permalink: /
 ---
 
-## About
+# Jiajun (Dana) Dai
 
-I am a first-year PhD student in the Scientific Computing & Imaging Institute (SCI) at the University of Utah, advised by Prof. Valerio Pascucci. My research lies at the intersection of data visualization, topological data analysis and machine learning for large-scale biomedical imaging.
+_PhD Student, Scientific Computing & Imaging Institute (SCI)  
+Kahlert School of Computing, University of Utah_
 
-Before joining the Kahlert School of Computing, I completed an M.A. in Mathematics at UC Santa Barbara, where I focused on algebraic geometry, algebraic topology, numerical analysis, and scientific computing. I also hold a B.Eng. in Polymer Science and Engineering from the University of Science and Technology of China.
+Email: dana.dai@utah.edu  
+[Download CV (PDF)](/home/DanaDai-cv.pdf)
+
+---
+
+## About Me
+
+I am a first-year PhD student in the Scientific Computing & Imaging Institute (SCI) at the University of Utah, advised by Prof. Valerio Pascucci. My research focuses on data visualization, topological data analysis (TDA), scientific computing, and machine learning for digital pathology.
+
+Before joining the Kahlert School of Computing, I completed an M.A. in Mathematics at UC Santa Barbara, where I studied algebraic geometry, algebraic topology, numerical analysis, and scientific computing. I also earned a B.Eng. in Polymer Science and Engineering from the University of Science and Technology of China.
+
+---
 
 ## Research Interests
 
-- Data visualization for scientific and biomedical data  
-- Topological data analysis (TDA) and computational topology  
-- Machine learning for digital pathology (H\&E histopathology, WSI)  
+- Scientific visualization  
+- Topological data analysis  
+- Machine learning for digital pathology  
+- Deep learning for PDEs and scientific computing  
 
-## CV
-
-You can download my current curriculum vitae (CV) here:
-
-- [Download CV (PDF)](/main/DanaDai-cv.pdf)
+---
 
 ## Contact
 
-- Email: u1420119@utah.edu; jiajundai1991@gmail.com
+- **Email:** u1420119@utah.edu; jiajundai1991@gmail.com  
