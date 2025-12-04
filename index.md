@@ -20,7 +20,7 @@ Before joining the Kahlert School of Computing, I completed an M.A. in Mathemati
 
 You can download my current curriculum vitae (CV) here:
 
-- [Download CV (PDF)](/downloads/DanaDai-cv.pdf)
+- [Download CV (PDF)](/Downloads/DanaDai-cv.pdf)
 
 ## Contact
 
