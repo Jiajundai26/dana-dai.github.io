@@ -8,7 +8,7 @@ title: "Home"
 _PhD Student, Scientific Computing & Imaging Institute (SCI)  
 Kahlert School of Computing, University of Utah_
 
-Email: dana.dai@utah.edu  
+Email: u1420119@utah.edu; jiajundai1991@gmail.com  
 [Download CV (PDF)](/home/DanaDai-cv.pdf)
 
 ---
