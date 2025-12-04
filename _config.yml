@@ -1,0 +1,15 @@
+title: "Jiajun (Dana) Dai"
+description: "PhD student in Computing at the University of Utah"
+theme: minima
+
+# For navigation links (top menu in minima)
+header_pages:
+  - index.md
+
+# Your GitHub handle and social links (optional, adjust or remove)
+github_username: Jiajundai26
+# linkedin_username: your-linkedin
+# scholar: your-scholar-id
+
+# Build settings
+markdown: kramdown
